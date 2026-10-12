@@ -12,6 +12,6 @@ packages:
   - curl
   - tmux
   - vim
-  -wget
+  - wget
 
 system_timezone: Etc/UTC
